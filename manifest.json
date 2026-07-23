@@ -2,7 +2,7 @@
   "name": "KC-Player",
   "short_name": "KC-Player",
   "description": "Watch, capture, and edit moments from your videos.",
-  "start_url": "./clip-capture-prototype.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",

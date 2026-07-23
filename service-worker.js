@@ -1,10 +1,11 @@
 // Bump this version string any time you update the app's own files
 // (the HTML/CSS/JS) — it forces the browser to fetch fresh copies
 // instead of serving the old cached version forever.
-const CACHE_NAME = 'kc-player-v2';
+const CACHE_NAME = 'kc-player-v3';
 
 const APP_SHELL = [
-  './clip-capture-prototype.html',
+  './index.html',
+  './',
   './manifest.json'
 ];
 
